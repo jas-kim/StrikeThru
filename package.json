@@ -1,0 +1,19 @@
+{
+  "name": "strikethru",
+  "version": "1.0.0",
+  "description": "web based rendition of popular analog system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jas-kim/StrikeThru.git"
+  },
+  "author": "Jason Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jas-kim/StrikeThru/issues"
+  },
+  "homepage": "https://github.com/jas-kim/StrikeThru#readme"
+}
