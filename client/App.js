@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import MainContainer from '../containers/mainContainer.js';
+import MainContainer from '../containers/MainContainer.js';
+import AppBar from '../containers/AppBar.js';
+
 
 class App extends Component {
   constructor(props) {
@@ -9,6 +11,7 @@ class App extends Component {
   render() {
     return(
       <div>
+        <AppBar />
         <MainContainer />
       </div>
     )
